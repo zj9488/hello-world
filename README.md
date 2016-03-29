@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Now try to type something esle;
